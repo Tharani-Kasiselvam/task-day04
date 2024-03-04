@@ -4,4 +4,6 @@ press ctl+s for saving this file
 git init -> This cmd is used to establish the connection between the local as well as the Github repository
 
 git remote add origin git remote add origin https://github.com/Tharani-Kasiselvam/git-zen-proj1.git 
--> This cmd tells where you need to store this file/folder 
+-> This cmd tells where you need to store this file/folder
+
+adding a new line
