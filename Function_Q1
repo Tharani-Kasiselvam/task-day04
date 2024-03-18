@@ -18,7 +18,7 @@ var odd = function(arr){
 }
 console.log(odd([2,3,6,8,7,9,11]))
 
-//1b. convert all the strings to title caps in a string array - Anonymous func
+//1b. convert all the strings to title caps in a string array - Anonymous
 var strArr = ["hello",'welcome']
 var result = function(arr){
  for(var i=0;i<arr.length;i++){
@@ -29,7 +29,6 @@ var result = function(arr){
 console.log(result(strArr))
 
 //1b. convert all the strings to title caps in a string array - IFFE
-
 (function(arr){
  for(var i=0;i<arr.length;i++){
   arr[i] = arr[i].toUpperCase()
